@@ -1,6 +1,5 @@
 === 1-Click Child Theme ===
 Contributors: ayyazahmad
-Donate link: https://
 Tags: wordpress, child theme, generator, creator, one click, starter, 1-click
 Requires at least: 3.4
 Tested up to: 5.2
